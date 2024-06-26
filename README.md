@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **DevSecOps,Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://dev.azure.com/chandrapal](https://dev.azure.com/chandrapal31)
+- 👨‍💻 All of my projects are available at [https://dev.azure.com/chandrapal31](https://dev.azure.com/chandrapal31)
 
 - 📫 How to reach me **chandrapal31@outlook.com**
 
