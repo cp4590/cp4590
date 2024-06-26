@@ -25,14 +25,14 @@
 
 - 🌱 I’m currently learning **DevSecOps,Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://dev.azure.com/CPTiwari](https://dev.azure.com/CPTiwari)
+- 👨‍💻 All of my projects are available at [https://dev.azure.com/chandrapal](https://dev.azure.com/chandrapal31)
 
 - 📫 How to reach me **chandrapal31@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.azure.com/cptiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.azure.com/cptiwari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandra-prakash-tiwari-89a81a258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandra-prakash-tiwari-89a81a258" height="30" width="40" /></a>
+<a href="https://dev.azure.com/chandrapal31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.azure.com/chandrapal31/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandra-pal-72272740/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandra-pal-72272740/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
