@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp4590&label=Profile%20views&color=0e75b6&style=flat" alt="cp4590" /> </p>
 
-- 🔭 I’m currently working on **Wipro Limited**
+- 🔭 I’m currently working in **Wipro Limited**
 
 - 🌱 I’m currently learning **Kubernetes, Helm, Agentic AI, LLM**
 
