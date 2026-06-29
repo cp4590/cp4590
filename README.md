@@ -1,6 +1,6 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk0MzEwMzksIm5iZiI6MTcxOTQzMDczOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI2VDE5Mzg1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3ZThmNmY1ZmQyYjk4ZjBlZmI5MjRmMmQ5MDA2YTk3YWExOTkxNDYzYTBlMjkxYjI2ODYxNWVlMDM2ZGJkNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.L2F410hgCmUHF5xEysqQBNN-kNewictt6E3hkwtUD_0)
 <h1 align="center">Hi 👋, I'm Chandra Pal</h1>
-<h3 align="center">A passionate DevOps Enginner from India</h3>
+<h3 align="center">A passionate DevOps Enginner Lead from India</h3>
 
 <div align="center">
 <img width="100%" height = "250px" src="https://miro.medium.com/v2/resize:fit:1400/1*5kTaMPB5tDEBerSRL0GFeA.gif" />
@@ -21,9 +21,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cp4590&label=Profile%20views&color=0e75b6&style=flat" alt="cp4590" /> </p>
 
-- 🔭 I’m currently working on **HCL Tech**
+- 🔭 I’m currently working on **Wipro Limited**
 
-- 🌱 I’m currently learning **DevSecOps,Kubernetes**
+- 🌱 I’m currently learning **Kubernetes, Helm, Agentic AI, LLM**
 
 - 👨‍💻 All of my projects are available at [https://dev.azure.com/chandrapal31](https://dev.azure.com/chandrapal31)
 
